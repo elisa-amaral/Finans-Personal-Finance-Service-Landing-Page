@@ -1,0 +1,31 @@
+#home 
+{
+	background: #ffc107;
+	color: white;
+}
+
+#description
+{
+	font-size: 1.3em;
+}
+
+#navBar
+{
+  font-size: 1.1em;
+}
+
+#signUpButton
+{
+	background-color: #868686;
+	color: #fff;
+}
+
+.box 
+{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
