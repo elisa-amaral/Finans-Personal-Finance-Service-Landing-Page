@@ -1,6 +1,6 @@
 # Finans - Personal Finance Service - Landing Page
 
-This project is the landing page of the site that promotes a fictional personal finance service named Finans, the project was coded in HTML, CSS and Bootstrap.
+This project is the landing page of the site that promotes a fictional personal finance service named Finans.
 
 ## Screenshot 1
 
@@ -15,6 +15,8 @@ This project is the landing page of the site that promotes a fictional personal 
 ![Screenshot](Screenshot_3.png)
 
 ## Technology Stack
+
+The project was built with:
 
 + HTML
 + CSS
